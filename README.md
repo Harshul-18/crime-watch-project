@@ -1,6 +1,8 @@
 # CrimeWatch
 
-A terminal-based application for crime detection in video footage using machine learning.
+A project for crime detection in video footage using machine learning.
+
+Article: [A Comprehensive Study to Predicting Unethical: Activity in Videos Through Deep Learning Techniques](https://link.springer.com/chapter/10.1007/978-981-97-9132-3_11)
 
 ## Features
 
