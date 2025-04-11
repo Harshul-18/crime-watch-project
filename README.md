@@ -65,6 +65,4 @@ Trained models are saved in the `models/` directory.
 
 Copyright © 2023. All Rights Reserved.
 
-This software is provided for portfolio and demonstration purposes only. The code, documentation, and all associated materials are protected by copyright law.
-
-This project is intended solely as a demonstration of skills and technical capabilities and is not licensed for any use whatsoever.
+This project is provided for portfolio and demonstration purposes only. 
